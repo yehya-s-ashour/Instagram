@@ -1,6 +1,4 @@
-# instagram2
-
-A new Flutter project.
+# instagram
 
 ## Getting Started
 
